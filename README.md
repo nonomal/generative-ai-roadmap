@@ -18,11 +18,11 @@ This work is licensed under a
 
 ## 图集列表
 
-| 图集 | 简介 | 语言 |
-| --- | --- | --- |
-| [生成式AI的应用路线图](./sets/generative-ai-controllability/README.md) | 以“可控性”为主线，梳理生成式AI的演进规律与应用场景 | 中文 / [English](./sets/generative-ai-controllability/README.en.md) |
-| [大模型技术与应用思考导图](./sets/llm-multimodal-thinking-map/README.md) | 大模型与多模态AI的技术演进和应用思考导图 | 中文 |
-| [2026：通向企业级AI能力的关键路径](./sets/enterprise-ai-critical-path/README.md) | AICP：企业构建AI能力过程中的关键路径图集 | 中文 / [English](./sets/enterprise-ai-critical-path/README.en.md) |
+| 图集 | 简介 | 语言 | 创建日期 |
+| --- | --- | --- | --- |
+| [生成式AI的应用路线图](./sets/generative-ai-controllability/README.md) | 以“可控性”为主线，梳理生成式AI的演进规律与应用场景 | 中文 / [English](./sets/generative-ai-controllability/README.en.md) | 2023-06 |
+| [大模型技术与应用思考导图](./sets/llm-multimodal-thinking-map/README.md) | 大模型与多模态AI的技术演进和应用思考导图 | 中文 | 2023-06 |
+| [2026：企业AI能力建设的关键路径](./sets/enterprise-ai-critical-path/README.md) | AICP：企业构建AI能力过程中的关键路径图集 | 中文 / [English](./sets/enterprise-ai-critical-path/README.en.md) | 2026-07 |
 
 ## 新增图集
 

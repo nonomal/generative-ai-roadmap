@@ -1,6 +1,6 @@
 ![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
-# 2026：通向企业级AI能力的关键路径
+# 2026：企业AI能力建设的关键路径
 
 AICP（The Critical Path to Enterprise AI Capability）：企业构建AI能力过程中的关键路径图集。
 

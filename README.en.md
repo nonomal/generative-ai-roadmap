@@ -21,11 +21,11 @@ This work is licensed under a
 
 ## Diagram sets
 
-| Set | Description | Languages |
-| --- | --- | --- |
-| [The Roadmap of Generative AI](./sets/generative-ai-controllability/README.en.md) | Evolution and application scenarios of generative AI, organized around "controllability" | [中文](./sets/generative-ai-controllability/README.md) / English |
-| [LLM and Multimodal Thinking Map](./sets/llm-multimodal-thinking-map/README.md) | A thinking map on the technical evolution and applications of LLMs and multimodal AI | 中文 only |
-| [2026 - The Critical Path to Enterprise AI Capability](./sets/enterprise-ai-critical-path/README.en.md) | AICP: the critical path enterprises follow while building AI capability | [中文](./sets/enterprise-ai-critical-path/README.md) / English |
+| Set | Description | Languages | Created |
+| --- | --- | --- | --- |
+| [The Roadmap of Generative AI](./sets/generative-ai-controllability/README.en.md) | Evolution and application scenarios of generative AI, organized around "controllability" | [中文](./sets/generative-ai-controllability/README.md) / English | 2023-06 |
+| [LLM and Multimodal Thinking Map](./sets/llm-multimodal-thinking-map/README.md) | A thinking map on the technical evolution and applications of LLMs and multimodal AI | 中文 only | 2023-06 |
+| [2026 - The Critical Path to Enterprise AI Capability](./sets/enterprise-ai-critical-path/README.en.md) | AICP: the critical path enterprises follow while building AI capability | [中文](./sets/enterprise-ai-critical-path/README.md) / English | 2026-07 |
 
 ## Adding a new diagram set
 
